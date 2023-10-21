@@ -1,0 +1,24 @@
+{
+    "user":{
+        "id": "033390",
+        "firstName": "Israa",
+        "middleName": "Muaath",
+        "lastName": "Shtayeh",
+        "nationality": "Qatari",
+        "dateOfBirth": "Today",
+        "gender": "Femal",
+        "subUnit": "Engineering",
+        "jobTitle": "Assistant",
+        "empStatus": "Freelance",
+        "password":"zaqzaq123",
+        "supervisor": {
+            "id": "super",
+            "firstName": "super",
+            "middleName": "super",
+            "lastName": "super"
+        },
+        "reportingMethod":"Direct"
+    }
+  
+   
+}
